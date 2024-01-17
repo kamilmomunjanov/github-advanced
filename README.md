@@ -1,4 +1,4 @@
-+Зачем нужен GIT
++ Зачем нужен GIT
 +Настройка окружения и git clone
 +Git init, status, remote, add, commit, push
 +Использование .gitignore файла
